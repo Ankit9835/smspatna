@@ -1,0 +1,1 @@
+http://smspatna.com/API/WebSMS/Http/v1.0a/index.php?username=UMDASERVICES&password=UMDASERVICES&sender=SVKJWL&to=6202017915&message=Hello+Test+Message&reqid=1&format=text&route_id=328&sendondate=10-12-2019T05:43:45
